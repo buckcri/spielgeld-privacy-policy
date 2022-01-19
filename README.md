@@ -5,4 +5,4 @@ The English privacy policy for the [App, Spielgeld](https://play.google.com/stor
 
 # Datenschutzerklärung (Deutsch)
 
-Die Datenschutzerklärung für die App Spielgeld auf Deutsch befindet sich unter: <https://buckcri.github.io/spielgeld-privacy-policy/privacy-policy_de>
+Die Datenschutzerklärung für die [App Spielgeld](https://play.google.com/store/apps/details?id=com.github.buckcri.spielgeld) auf Deutsch befindet sich unter: <https://buckcri.github.io/spielgeld-privacy-policy/privacy-policy_de>
